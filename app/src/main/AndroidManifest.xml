@@ -14,7 +14,7 @@
             android:icon="@drawable/icon"
             android:label="KDActivityLabel"
             android:screenOrientation="user" >
-            <!--android:screenOrientation="portrait" >-->
+            <!--android:screenOrientation="portrait" > tom-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
